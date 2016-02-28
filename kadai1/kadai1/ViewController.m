@@ -29,7 +29,7 @@
     //パラメータ設定
     label.textColor = [UIColor blueColor];
     label.font = [UIFont fontWithName:@"AppleGothic" size:40];
-    label.text = @"Hello FS";
+    label.text = @"Hello DOMOTO";
     [self.view addSubview:label];
     
 }
